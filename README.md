@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Trinh Van Duc and I'm a Front-end Developer, from Viet Nam 🇻🇳</h2>
+<h2 align="center">Hi 👋! My name is Trinh Van Duc</h2>
+<h2 align="center">I'm a Front-end Developer, from Viet Nam 🇻🇳</h2>
 
 
 ###
