@@ -3,7 +3,7 @@
 
 ###
 
-  <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img align="right" height="300" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
   
 ###
 <h3 align="left">I code with:</h3>
