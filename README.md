@@ -31,17 +31,15 @@
 
 
 ###
+
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://trinh-van-duc.vercel.app" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/100080288?v=4" alt="trinh-van-duc.vercel.app" height="32" width="32" /></a>
   <a href="https://fb.com/https://www.facebook.com/finntvd.151" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
   <a href="https://fb.com/https://www.facebook.com/finntvd.151" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
 </div>
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/FinnTVD/count.svg?"  />
-</div>
+###
 
 <br clear="both">
 
