@@ -9,8 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 ###
 
 <div align="left">
@@ -30,7 +29,11 @@
 <a href="https://dev.to/trinh-van-duc.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="trinh-van-duc.vercel.app" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/finntvd.151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/finntvd.151" height="30" width="40" /></a>
 </p>
-<a href="mailto: finnit.th@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+
+<div  align="left">
+  <a href="mailto: finnit.th@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+</div>
+
 ###
 
 <br clear="both">
