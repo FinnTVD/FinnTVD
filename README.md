@@ -34,7 +34,7 @@
 ###
 
 <div align="left">
-  <a href="https://trinh-van-duc.vercel.app" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/100080288?v=4" alt="trinh-van-duc.vercel.app" height="52" width="52" /><strong> My portfolio</strong></a>
+  <a href="https://trinh-van-duc.vercel.app" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/100080288?v=4" alt="trinh-van-duc.vercel.app" height="52" width="52" /><strong> My portfolio</strong></a>
 </div>
 
 ###
